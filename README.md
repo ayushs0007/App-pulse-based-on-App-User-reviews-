@@ -21,6 +21,7 @@ This repo is **also a tutorial**. Every layer has a markdown lesson under
 | 08 | [Guardrails](docs/08-guardrails.md) | PII redaction, prompt-injection, citation enforcement |
 | 09 | [Prompting](docs/09-prompting.md) | System/user/assistant, few-shot, structured output, tuning |
 | 10 | [Customisation](docs/10-customisation.md) | Point this pipeline at any app / language / region |
+| 11 | [Agentic AI](docs/11-agentic-ai.md) | Concepts, patterns, where this repo sits on the agentic stack |
 
 **Looking to change something?** See [`HACKING.md`](HACKING.md) — a single
 jump table: "I want to change X → edit file Y line Z".
