@@ -1,0 +1,24 @@
+# Scraper
+google-play-scraper==1.2.7
+
+# Embeddings + clustering
+sentence-transformers==3.0.1
+scikit-learn==1.5.1
+numpy==1.26.4
+
+# LLM + orchestration
+groq==0.11.0
+langgraph==0.2.34
+langchain-core==0.3.10
+python-dotenv==1.0.1
+
+# API
+flask==3.0.3
+flask-cors==4.0.1
+
+# MCP server
+mcp==1.0.0
+
+# Utility
+requests==2.32.3
+pydantic==2.9.2
