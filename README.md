@@ -17,6 +17,13 @@ This repo is **also a tutorial**. Every layer has a markdown lesson under
 | 04 | [LangGraph](docs/04-langgraph.md) | State graphs, nodes, approval gates |
 | 05 | [MCP](docs/05-mcp.md) | Model Context Protocol, Google Docs + Gmail tools |
 | 06 | [Dashboard](docs/06-dashboard.md) | Vite + React + Tailwind, Flask proxy, email snapshot |
+| 07 | [Evaluation Framework](docs/07-evaluation.md) | Golden sets, LLM-as-judge, heuristic metrics |
+| 08 | [Guardrails](docs/08-guardrails.md) | PII redaction, prompt-injection, citation enforcement |
+| 09 | [Prompting](docs/09-prompting.md) | System/user/assistant, few-shot, structured output, tuning |
+| 10 | [Customisation](docs/10-customisation.md) | Point this pipeline at any app / language / region |
+
+**Looking to change something?** See [`HACKING.md`](HACKING.md) — a single
+jump table: "I want to change X → edit file Y line Z".
 
 ## Architecture
 
