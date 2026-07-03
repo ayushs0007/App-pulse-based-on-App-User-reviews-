@@ -1,0 +1,234 @@
+{
+  "run_id": "2026-W26",
+  "generated_at": "2026-06-29T19:55:26.667210+00:00",
+  "week_label": "2026-W26",
+  "baseline_week_label": null,
+  "total": 500,
+  "sentiment": {
+    "neg": 10,
+    "neu": 2,
+    "pos": 88
+  },
+  "avg_rating": 4.5,
+  "language_breakdown": {
+    "en": 468,
+    "hinglish": 28,
+    "hi": 4
+  },
+  "clusters": [
+    {
+      "id": 4,
+      "label": "User Friendly Interface",
+      "size": 32,
+      "avg_rating": 3.25,
+      "sample_quotes": [
+        "nice app & transection very fast and no issues this is a good app for trading",
+        "very nice app to buy and sell the shares process is very simple to understand and app was running very smooth.",
+        "\"Great app for investing. Simple interface, smooth transactions, and easy portfolio tracking. Highly recommended for both beginners and experienced investors.\" 👍📈",
+        "This is a very bad app, do not install it, otherwise these people will sell your mobile number to fake brokers and make you lose all your money.",
+        "good experience app I think I am huge investment of mutual fund vry good app guyss quickly download groww app..",
+        "groww is very good app for trading and it use very easy and current price every stock"
+      ],
+      "wow_pct": null,
+      "wow_kind": "emerging",
+      "confidence": "MED"
+    },
+    {
+      "id": 3,
+      "label": "User Friendly Interface",
+      "size": 26,
+      "avg_rating": 3.1538461538461537,
+      "sample_quotes": [
+        "Groww is one of the worst trading apps right now. Its brokerage and other charges are very high, which can significantly reduce your profits.",
+        "Groww is the worst application to use. The platform is completely rigged and designed to lure users in only to secretly drain their money through hidden charges and market traps. I strongly advise against trusting your hard-earned savings with this company; it is nothing but a money-making scam to loot common people. I have also lost my money so please don't install it.",
+        "Groww is the one of the best Trading App where each & every thing is real. Also very smooth operate platform.",
+        "Been using it since 2019...Compared to other app groww is a very user-friendly",
+        "really groww is a fantastic application for investing in Indian stock market mutual fund it's application interface is a very user friendly and customer response is also very quick . I am using this application since last 3 years .",
+        "Groww is best and profitable platform for Investors to invest in ShareMarket for their Financial Growth , Thank You Groww ! 🙂"
+      ],
+      "wow_pct": null,
+      "wow_kind": "emerging",
+      "confidence": "MED"
+    },
+    {
+      "id": 1,
+      "label": "App Stability Issues",
+      "size": 19,
+      "avg_rating": 4.7368421052631575,
+      "sample_quotes": [
+        "So far it is a good experience. I had an issue with the banking details which was solved within a day by the customer service team. so great work! Still giving 4 stars because there is always room for improvement! 😊😉"
+      ],
+      "wow_pct": null,
+      "wow_kind": "emerging",
+      "confidence": "LOW"
+    },
+    {
+      "id": 2,
+      "label": "Feature Enhancement Requests",
+      "size": 18,
+      "avg_rating": 3.7222222222222223,
+      "sample_quotes": [
+        "very good application to invest and learn. Note : Need more indicator to analyse.",
+        "Trading is Very easy and Now share Tecnical, overview, Breakout stock and other variables help us to indentify Good stocks .",
+        "watching and buying and selling stocks is easy in here... and no annual maintenance fee. easy for beginners",
+        "the best thing is that there is no annual maintenance cost and it is very good for new investors",
+        "Not up to mark as zerodha. Very confusing to handling mutual funds and F&O.",
+        "The portfolio analysis system needs to be improved. It needs to calculate values and show visual representations more accurately and in a better way."
+      ],
+      "wow_pct": null,
+      "wow_kind": "emerging",
+      "confidence": "LOW"
+    },
+    {
+      "id": 0,
+      "label": "App Stability Issues",
+      "size": 13,
+      "avg_rating": 3.5384615384615383,
+      "sample_quotes": [
+        "very best app aap bhi use karo samajh mein a jaega achcha hai ki Bura Hai Baki to mere hisab se bahut achcha hai",
+        "Groww app चलाने में आसान है और अगर कोई problem होतो coustmor care बहुत अच्छे से बात सुनते है और Problem solve करने में पूरी मदद करते हैं🙏 धन्यवाद🙏",
+        "bekar hai intraday position automatic cut ho jatti hai sl tar rotate karne ke baad",
+        "bahut achha broker hai ye. compare to angle one and upstox. kyuki wo sale faltu ka charges laga deta hai",
+        "price sl tak aya nehi lakin fir v sl laggai... castomar care se v koi ...madat nehi🙂‍↕️",
+        "pls option trading ke liye mat download karna only for investment options trading me jis price par buy karoge gtt order use jyda hi honga bekar app"
+      ],
+      "wow_pct": null,
+      "wow_kind": "emerging",
+      "confidence": "LOW"
+    }
+  ],
+  "pulse": {
+    "summary": "Users flagged friction across the top themes this week. Investigate the most-cited issues and prioritise fixes for the next sprint.",
+    "recommendation": "Investigate and patch the user friendly interface issues (32 reviews) before next release.",
+    "actions": [
+      {
+        "text": "Triage User Friendly Interface",
+        "priority": "HIGH"
+      },
+      {
+        "text": "Triage User Friendly Interface",
+        "priority": "MED"
+      },
+      {
+        "text": "Triage App Stability Issues",
+        "priority": "MED"
+      }
+    ]
+  },
+  "feedback": [
+    {
+      "user": "Jaichand Singh",
+      "initials": "JS",
+      "text": "nice app & transection very fast and no issues this is a good app for trading",
+      "rating": 5,
+      "severity": "MAJOR",
+      "theme": "User Friendly Interface"
+    },
+    {
+      "user": "North Inbox",
+      "initials": "NI",
+      "text": "Groww is one of the worst trading apps right now. Its brokerage and other charges are very high, which can significantly reduce your profits.",
+      "rating": 1,
+      "severity": "MAJOR",
+      "theme": "User Friendly Interface"
+    },
+    {
+      "user": "Sailee Karkhanis",
+      "initials": "SK",
+      "text": "So far it is a good experience. I had an issue with the banking details which was solved within a day by the customer service team. so great work! Still giving 4 stars because there is always room for improvement! 😊😉",
+      "rating": 4,
+      "severity": "INFO",
+      "theme": "App Stability Issues"
+    },
+    {
+      "user": "lokesh kumar",
+      "initials": "LK",
+      "text": "very good application to invest and learn. Note : Need more indicator to analyse.",
+      "rating": 5,
+      "severity": "INFO",
+      "theme": "Feature Enhancement Requests"
+    }
+  ],
+  "fee": {
+    "bullets": [
+      "Stock delivery trades on Groww incur Rs 20 or 0.1% (whichever is lower) per executed order. [1]",
+      "Intraday and F&O trades are charged Rs 20 per executed order, plus statutory levies. [3]",
+      "Mutual funds direct plans on Groww have zero commission and no transaction fees. [2]",
+      "Exit load is a mutual-fund-house charge for redeeming units inside the lock-in window — Groww does not earn this. [2]",
+      "Demat AMC for stock investors is billed annually after the first year, separate from per-trade brokerage. [3]",
+      "GST, SEBI turnover fee, STT and stamp duty are statutory levies passed through unchanged on every trade. [3]"
+    ],
+    "sources": [
+      {
+        "title": "Brokerage charges on stock investments",
+        "url": "https://groww.in/p/brokerage-charges"
+      },
+      {
+        "title": "Mutual fund exit load explained",
+        "url": "https://groww.in/p/mutual-funds-exit-load"
+      },
+      {
+        "title": "All charges on Groww (official)",
+        "url": "https://groww.in/blog/charges-on-groww"
+      }
+    ],
+    "matched": 16
+  },
+  "anomalies": [
+    {
+      "label": "User Friendly Interface",
+      "kind": "emerging",
+      "current_n": 32,
+      "baseline_n": 0,
+      "delta_pct": 1.0,
+      "severity": "MAJOR",
+      "note": "First time in top themes (n=32)."
+    },
+    {
+      "label": "User Friendly Interface",
+      "kind": "emerging",
+      "current_n": 26,
+      "baseline_n": 0,
+      "delta_pct": 1.0,
+      "severity": "MAJOR",
+      "note": "First time in top themes (n=26)."
+    },
+    {
+      "label": "App Stability Issues",
+      "kind": "emerging",
+      "current_n": 19,
+      "baseline_n": 0,
+      "delta_pct": 1.0,
+      "severity": "INFO",
+      "note": "First time in top themes (n=19)."
+    },
+    {
+      "label": "Feature Enhancement Requests",
+      "kind": "emerging",
+      "current_n": 18,
+      "baseline_n": 0,
+      "delta_pct": 1.0,
+      "severity": "INFO",
+      "note": "First time in top themes (n=18)."
+    },
+    {
+      "label": "App Stability Issues",
+      "kind": "emerging",
+      "current_n": 13,
+      "baseline_n": 0,
+      "delta_pct": 1.0,
+      "severity": "INFO",
+      "note": "First time in top themes (n=13)."
+    }
+  ],
+  "decision": {
+    "move": "Double-down — extract the UX patterns users love and apply across new screens",
+    "why": "\"User Friendly Interface\" emerged this week (n=32, avg ★3.2). First time it's appeared in the top themes.",
+    "theme": "User Friendly Interface",
+    "impact": "Addresses ~6% of weekly review volume (32 reviews) — projected NPS impact +2.2",
+    "addressable": 32,
+    "confidence": "MED",
+    "owner": "@design-systems",
+    "kind": "size"
+  }
+}

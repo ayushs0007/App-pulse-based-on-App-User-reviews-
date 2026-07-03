@@ -1,139 +1,124 @@
 {
   "run_id": "2026-W27",
-  "generated_at": "2026-06-29T19:55:35.172786+00:00",
+  "generated_at": "2026-07-03T18:54:58.785421+00:00",
   "week_label": "2026-W27",
-  "baseline_week_label": "2026-W26",
-  "total": 500,
+  "baseline_week_label": null,
+  "total": 1000,
   "sentiment": {
-    "neg": 13,
-    "neu": 4,
-    "pos": 83
+    "neg": 11,
+    "neu": 3,
+    "pos": 86
   },
-  "avg_rating": 4.3,
+  "avg_rating": 4.4,
   "language_breakdown": {
-    "en": 457,
-    "hinglish": 40,
-    "hi": 3
+    "en": 925,
+    "hinglish": 68,
+    "hi": 7
   },
   "clusters": [
     {
       "id": 4,
-      "label": "User Friendly Interface",
-      "size": 39,
-      "avg_rating": 4.0256410256410255,
+      "label": "High Brokerage Fees",
+      "size": 67,
+      "avg_rating": 2.208955223880597,
       "sample_quotes": [
-        "Quite Smooth and easy to use app for share market investment",
-        "it has a good app for new stock traders but I learn many things from it and I also found a wrong that it can not be used as mutual fund properly i thought that they have to provide a seperate app for it",
-        "I've had a great experience using Groww. The app is simple, user-friendly, and makes investing in stocks, mutual funds, and IPOs very convenient, even for beginners. The interface is clean, transactions are smooth, and account management is hassle-free. I also appreciate the timely notifications, easy-to-understand investment insights, and quick customer support. Overall, Groww is a reliable platform for anyone looking to start or grow their investment journey. Highly recommended!",
-        "very good app for trading my trading experience very good in this app,915 tarminal is best for F&O,SLand TP drag on chart very easy, swastik sir recomend to me groww 915 app for use,my experience is best with her",
-        "very good app for trading f&O and stocks Trading and stock by or sell and all perpus for daily earning",
-        "Good app, Some important additional information to be added if possible"
+        "they are charges too much brokerages.. and customer care not respond properly.. mera 35050 amount inlogo ki wajah se hold ho gaya ye claim karte hai instant receive but mujhe 27 hours ho gaya wo bhi working days par fir bhi amount receive nahi huva.. third class service.. customer ke paise hold kar dete hai small amount instant received ho jata hai jaise hi aap big amount withdrawal karoge hold ho jayega.. i suggest don't use it switched to other platform..",
+        "The grow chart pattern is very slow if you are executing any trade then the premium chart is very slow and does not show in real time and lag problem,and you will lose the money",
+        "Earlier financial performance chart was goold but now new chart version is not that upto mark",
+        "it takes 5 rupees brokerage charges buying a share don't use",
+        "This Grow is not at all preferable for F&O. I placed a stop loss order. some how it sold my position at without my permission. it didnt even trigger the price. lost much profit. first time I thought I did a mistake. now its second time. and that assistant in the help section doesnt even answer well. Just gives you a contract note.",
+        "App interface is bad after this latest update. in mutual fund Dashboard section daily and overall profit were shown in Green Colour and Loss were Shown in Red Colour Font. Which was very convenient and clear. But after update Both Profit and Loss are showing in White colour font which is very confusing. Before this we were able to find profit and Loss very easily, only by seeing green & red colour. But not now. I request you to please Fix this issue as soon as possible."
       ],
-      "wow_pct": 50,
-      "wow_kind": "spike",
+      "wow_pct": null,
+      "wow_kind": "emerging",
+      "confidence": "MED"
+    },
+    {
+      "id": 1,
+      "label": "User Friendly Interface",
+      "size": 52,
+      "avg_rating": 4.1923076923076925,
+      "sample_quotes": [
+        "I've had a great experience using Groww. The app is simple, user-friendly, and makes investing in stocks, mutual funds, and IPOs very convenient, even for beginners. The interface is clean, transactions are smooth, and account management is hassle-free. I also appreciate the timely notifications, easy-to-understand investment insights, and quick customer support. Overall, Groww is a reliable platform for anyone looking to start or grow their investment journey. Highly recommended!",
+        "really groww is a fantastic application for investing in Indian stock market mutual fund it's application interface is a very user friendly and customer response is also very quick . I am using this application since last 3 years .",
+        "groww is very good app for trading and it use very easy and current price every stock",
+        "good experience app I think I am huge investment of mutual fund vry good app guyss quickly download groww app..",
+        "Groww is the one of the best Trading App where each & every thing is real. Also very smooth operate platform.",
+        "Groww is one of the worst trading apps right now. Its brokerage and other charges are very high, which can significantly reduce your profits."
+      ],
+      "wow_pct": null,
+      "wow_kind": "emerging",
+      "confidence": "MED"
+    },
+    {
+      "id": 3,
+      "label": "App Stability Issues",
+      "size": 51,
+      "avg_rating": 3.3137254901960786,
+      "sample_quotes": [
+        "nice app & transection very fast and no issues this is a good app for trading",
+        "Good app, Some important additional information to be added if possible",
+        "very nice app to buy and sell the shares process is very simple to understand and app was running very smooth.",
+        "This is a very bad app, do not install it, otherwise these people will sell your mobile number to fake brokers and make you lose all your money.",
+        "this app is waste of time because every time it's lag and stuck,I am using high end processing phone and tab but this application is fully worst working",
+        "Been using it since 2019...Compared to other app groww is a very user-friendly"
+      ],
+      "wow_pct": null,
+      "wow_kind": "emerging",
       "confidence": "MED"
     },
     {
       "id": 2,
       "label": "App Stability Issues",
-      "size": 32,
-      "avg_rating": 2.28125,
+      "size": 34,
+      "avg_rating": 3.5294117647058822,
       "sample_quotes": [
-        "Earlier financial performance chart was goold but now new chart version is not that upto mark",
-        "please add Quarterly and yearly time frame in chart, it's very important,for all traders and investors. Add midline in rectangle in tool section and colour Bar ka colour change karne ke bad Time frame badlne par fir wahi purana wala colour bar aa jata hai.isko fix karo pahle.",
-        "App interface is bad after this latest update. in mutual fund Dashboard section daily and overall profit were shown in Green Colour and Loss were Shown in Red Colour Font. Which was very convenient and clear. But after update Both Profit and Loss are showing in White colour font which is very confusing. Before this we were able to find profit and Loss very easily, only by seeing green & red colour. But not now. I request you to please Fix this issue as soon as possible.",
-        "previous format of revenue and profit is displayed by the company much better than the present format please provide previous format of revenue and profit",
-        "firstly, the latest version of app has deteriorated the home page user interface by squeezing the rise and fall of daily various indices trend placed at the top that display ed both points and percentage change together. Restore the older layout as soon as possible secondly, change in the display of financial statements like revenue and profits looks outdated , messy, confusing when compared to the previous designs and patterns",
-        "Dear Grow Team, Kindly Add Countdown Timer in Trading view chart...."
+        "mar jana per grow aap mai trading maat karna ye aap mai dikta kuch aur hai aur hota kuch aur hai late response profit mai close karoge toh lose mai close hota hai ek dam faltu aap hai...😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡",
+        "grow aap bahut acha hai samaj ne keliye aur treding karneka maza hi alag hai bas itnahi kami hai ke jab hum trade place kartehe tho chart pe hi pnl show nahi kartha hai jaise dhan aap me, aur sahi app me lemon aap me diktha hai pnl display karna chahiye agar diktha he to mujhe pls batadijiye kaise karnahe settings mai jakar",
+        "bhot bekar app hai jb koi call saste pr buy lrne jao to ye lpg order cencle kr dete hai or markit price pr bhi buy nahi hota hai bhot bekar service hai inki costumer care bhi support nahi krte main to kahunga inke yha demate account bnd krke kisi or app main open kre bhot bekar aap hai",
+        "Bahut Glitch yeh is app me trading ka platform hai hi nhi Dhan App sahi hai",
+        "Groww app चलाने में आसान है और अगर कोई problem होतो coustmor care बहुत अच्छे से बात सुनते है और Problem solve करने में पूरी मदद करते हैं🙏 धन्यवाद🙏",
+        "very best app aap bhi use karo samajh mein a jaega achcha hai ki Bura Hai Baki to mere hisab se bahut achcha hai"
       ],
-      "wow_pct": 146,
-      "wow_kind": "spike",
-      "confidence": "MED"
+      "wow_pct": null,
+      "wow_kind": "emerging",
+      "confidence": "LOW"
     },
     {
       "id": 0,
-      "label": "High Brokerage Fees",
-      "size": 19,
-      "avg_rating": 1.8421052631578947,
-      "sample_quotes": [
-        "they are charges too much brokerages.. and customer care not respond properly.. mera 35050 amount inlogo ki wajah se hold ho gaya ye claim karte hai instant receive but mujhe 27 hours ho gaya wo bhi working days par fir bhi amount receive nahi huva.. third class service.. customer ke paise hold kar dete hai small amount instant received ho jata hai jaise hi aap big amount withdrawal karoge hold ho jayega.. i suggest don't use it switched to other platform..",
-        "I'm very impressed with the customer support services. they helped me in just one day and solved my issue. A high appreciation for them. thank you groww.",
-        "option price is 20 and lot size is 550 20×550 = 11000 but app showing 61025? every time when I found a good entry in any option this happen and I miss the trade",
-        "why the customer service is so poor?in an emergency , if I call the agent don't answer for hours, of i choose to chat, they took more 15 to 30 minutes for average reply! please do something regarding this.",
-        "it takes 5 rupees brokerage charges buying a share don't use",
-        "pathetic service not even able to add nominee..tried many times with different nominee account and details... you are simply not able to add nominee... pathetic"
-      ],
-      "wow_pct": null,
-      "wow_kind": "emerging",
-      "confidence": "LOW"
-    },
-    {
-      "id": 3,
-      "label": "High Brokerage Fees",
-      "size": 19,
-      "avg_rating": 3.3684210526315788,
-      "sample_quotes": [
-        "bhot bekar app hai jb koi call saste pr buy lrne jao to ye lpg order cencle kr dete hai or markit price pr bhi buy nahi hota hai bhot bekar service hai inki costumer care bhi support nahi krte main to kahunga inke yha demate account bnd krke kisi or app main open kre bhot bekar aap hai",
-        "mar jana per grow aap mai trading maat karna ye aap mai dikta kuch aur hai aur hota kuch aur hai late response profit mai close karoge toh lose mai close hota hai ek dam faltu aap hai...😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡",
-        "Bahut Glitch yeh is app me trading ka platform hai hi nhi Dhan App sahi hai",
-        "grow aap bahut acha hai samaj ne keliye aur treding karneka maza hi alag hai bas itnahi kami hai ke jab hum trade place kartehe tho chart pe hi pnl show nahi kartha hai jaise dhan aap me, aur sahi app me lemon aap me diktha hai pnl display karna chahiye agar diktha he to mujhe pls batadijiye kaise karnahe settings mai jakar",
-        "bahut kharab hai app ha es per mat karna future and options mera 2 trede ma 89 rupees tax pad gya loss par so mere samjh app log mat karo es par 😂🤣",
-        "sell karne me time jada leta hai.3-4 ber tuch karne ke bad sell hota hai. utne me profit kam ho jata hai. trad me charge jada leta hai."
-      ],
-      "wow_pct": null,
-      "wow_kind": "emerging",
-      "confidence": "LOW"
-    },
-    {
-      "id": 1,
       "label": "User Friendly Interface",
-      "size": 18,
-      "avg_rating": 4.611111111111111,
+      "size": 31,
+      "avg_rating": 4.709677419354839,
       "sample_quotes": [
         "very nice and easy to use, quick learning and easy understanding",
         "Layout and functions are simple to use. Recent updates have made some bad design choices.",
-        "please add candles and lot of Settings please and abstract same to same please but is interfaces very good easy to friendly used is very good but please update all settings and candles more candles more indicators please add it"
+        "please add candles and lot of Settings please and abstract same to same please but is interfaces very good easy to friendly used is very good but please update all settings and candles more candles more indicators please add it",
+        "So far it is a good experience. I had an issue with the banking details which was solved within a day by the customer service team. so great work! Still giving 4 stars because there is always room for improvement! 😊😉"
       ],
-      "wow_pct": -31,
-      "wow_kind": "drop",
+      "wow_pct": null,
+      "wow_kind": "emerging",
       "confidence": "LOW"
     }
   ],
   "pulse": {
     "summary": "Users flagged friction across the top themes this week. Investigate the most-cited issues and prioritise fixes for the next sprint.",
-    "recommendation": "Investigate and patch the user friendly interface issues (39 reviews) before next release.",
+    "recommendation": "Investigate and patch the high brokerage fees issues (67 reviews) before next release.",
     "actions": [
       {
-        "text": "Triage User Friendly Interface",
+        "text": "Triage High Brokerage Fees",
         "priority": "HIGH"
       },
       {
-        "text": "Triage App Stability Issues",
+        "text": "Triage User Friendly Interface",
         "priority": "MED"
       },
       {
-        "text": "Triage High Brokerage Fees",
+        "text": "Triage App Stability Issues",
         "priority": "MED"
       }
     ]
   },
   "feedback": [
-    {
-      "user": "Sammy Daniel",
-      "initials": "SD",
-      "text": "Quite Smooth and easy to use app for share market investment",
-      "rating": 4,
-      "severity": "INFO",
-      "theme": "User Friendly Interface"
-    },
-    {
-      "user": "Vinay Dhawan",
-      "initials": "VD",
-      "text": "Earlier financial performance chart was goold but now new chart version is not that upto mark",
-      "rating": 3,
-      "severity": "CRITICAL",
-      "theme": "App Stability Issues"
-    },
     {
       "user": "Prince Chaturvedi",
       "initials": "PC",
@@ -143,12 +128,28 @@
       "theme": "High Brokerage Fees"
     },
     {
-      "user": "Akash verma",
-      "initials": "AV",
-      "text": "bhot bekar app hai jb koi call saste pr buy lrne jao to ye lpg order cencle kr dete hai or markit price pr bhi buy nahi hota hai bhot bekar service hai inki costumer care bhi support nahi krte main to kahunga inke yha demate account bnd krke kisi or app main open kre bhot bekar aap hai",
-      "rating": 1,
+      "user": "Shubham Pandey",
+      "initials": "SP",
+      "text": "I've had a great experience using Groww. The app is simple, user-friendly, and makes investing in stocks, mutual funds, and IPOs very convenient, even for beginners. The interface is clean, transactions are smooth, and account management is hassle-free. I also appreciate the timely notifications, easy-to-understand investment insights, and quick customer support. Overall, Groww is a reliable platform for anyone looking to start or grow their investment journey. Highly recommended!",
+      "rating": 5,
+      "severity": "INFO",
+      "theme": "User Friendly Interface"
+    },
+    {
+      "user": "Jaichand Singh",
+      "initials": "JS",
+      "text": "nice app & transection very fast and no issues this is a good app for trading",
+      "rating": 5,
       "severity": "MAJOR",
-      "theme": "High Brokerage Fees"
+      "theme": "App Stability Issues"
+    },
+    {
+      "user": "j himanshu",
+      "initials": "JH",
+      "text": "mar jana per grow aap mai trading maat karna ye aap mai dikta kuch aur hai aur hota kuch aur hai late response profit mai close karoge toh lose mai close hota hai ek dam faltu aap hai...😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡",
+      "rating": 1,
+      "severity": "INFO",
+      "theme": "App Stability Issues"
     }
   ],
   "fee": {
@@ -174,72 +175,63 @@
         "url": "https://groww.in/blog/charges-on-groww"
       }
     ],
-    "matched": 20
+    "matched": 36
   },
   "anomalies": [
     {
+      "label": "High Brokerage Fees",
+      "kind": "emerging",
+      "current_n": 67,
+      "baseline_n": 0,
+      "delta_pct": 1.0,
+      "severity": "CRITICAL",
+      "note": "First time in top themes (n=67)."
+    },
+    {
       "label": "App Stability Issues",
-      "kind": "spike",
-      "current_n": 32,
-      "baseline_n": 13,
-      "delta_pct": 1.4615384615384615,
-      "severity": "MAJOR",
-      "note": "+146% WoW (n 13 → 32)."
-    },
-    {
-      "label": "High Brokerage Fees",
       "kind": "emerging",
-      "current_n": 19,
+      "current_n": 51,
       "baseline_n": 0,
       "delta_pct": 1.0,
-      "severity": "MAJOR",
-      "note": "First time in top themes (n=19)."
-    },
-    {
-      "label": "High Brokerage Fees",
-      "kind": "emerging",
-      "current_n": 19,
-      "baseline_n": 0,
-      "delta_pct": 1.0,
-      "severity": "MAJOR",
-      "note": "First time in top themes (n=19)."
+      "severity": "CRITICAL",
+      "note": "First time in top themes (n=51)."
     },
     {
       "label": "User Friendly Interface",
-      "kind": "spike",
-      "current_n": 39,
-      "baseline_n": 26,
-      "delta_pct": 0.5,
+      "kind": "emerging",
+      "current_n": 52,
+      "baseline_n": 0,
+      "delta_pct": 1.0,
       "severity": "INFO",
-      "note": "+50% WoW (n 26 → 39)."
+      "note": "First time in top themes (n=52)."
+    },
+    {
+      "label": "App Stability Issues",
+      "kind": "emerging",
+      "current_n": 34,
+      "baseline_n": 0,
+      "delta_pct": 1.0,
+      "severity": "INFO",
+      "note": "First time in top themes (n=34)."
     },
     {
       "label": "User Friendly Interface",
-      "kind": "drop",
-      "current_n": 18,
-      "baseline_n": 26,
-      "delta_pct": -0.3076923076923077,
+      "kind": "emerging",
+      "current_n": 31,
+      "baseline_n": 0,
+      "delta_pct": 1.0,
       "severity": "INFO",
-      "note": "-30% WoW. Engagement dipped."
-    },
-    {
-      "label": "Feature Enhancement Requests",
-      "kind": "resolved",
-      "current_n": 0,
-      "baseline_n": 18,
-      "delta_pct": -1.0,
-      "severity": "INFO",
-      "note": "Dropped out of top themes (was n=18 last week)."
+      "note": "First time in top themes (n=31)."
     }
   ],
   "decision": {
-    "move": "Patch the crash hotspots before next release",
-    "why": "\"App Stability Issues\" jumped 146% WoW (n 13 → 32, avg ★2.3). It's 6% of weekly review volume.",
-    "theme": "App Stability Issues",
-    "impact": "Addresses ~6% of weekly review volume (32 reviews) — projected NPS impact +3.5",
-    "addressable": 32,
+    "move": "Ship a brokerage transparency banner inside the order flow",
+    "why": "\"High Brokerage Fees\" emerged this week (n=67, avg ★2.2). First time it's appeared in the top themes.",
+    "theme": "High Brokerage Fees",
+    "impact": "Addresses ~7% of weekly review volume (67 reviews) — projected NPS impact +7.5",
+    "addressable": 67,
     "confidence": "MED",
-    "owner": "@platform-eng",
-    "kind": "spike"
+    "owner": "@growth-pricing",
+    "kind": "size"
   }
 }
